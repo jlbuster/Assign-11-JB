@@ -1,0 +1,23 @@
+{
+  "name": "assign-11-jb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlbuster/Assign-11-JB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlbuster/Assign-11-JB/issues"
+  },
+  "homepage": "https://github.com/jlbuster/Assign-11-JB#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql2": "^2.1.0"
+  }
+}
