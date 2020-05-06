@@ -30,4 +30,7 @@ No tests
 
 ## Screenshots of Application
 
+![](/images/img1.png)
+![](/images/img2.png)
+
 ## Video of working Application
